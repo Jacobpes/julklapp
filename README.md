@@ -54,5 +54,5 @@ No additional libraries are required for running the script.
 This script is open-source and available for anyone to use and modify.
 
 ## Author
-- Jacob Pesämaa
+- Jacob Pesämaa 2024
 
