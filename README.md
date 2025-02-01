@@ -14,7 +14,7 @@ The script takes into consideration partner restrictions and performs random ass
 1. **Input List**: The script takes a list of pairs representing partners. Each pair contains two individuals who should not be assigned to buy gifts for each other.
 
     ```python
-    people = [["Dani", "Emmi"], ["Evert", "Maria"], ["Jacob", "Amanda"], ["Albert", "Jemina"], ["Juulia", "Junna"]]
+    people = [["Emmi"], ["Evert", "Maria"], ["Jacob", "Amanda"], ["Albert", "Jemina"], ["Juulia", "Junna"]]
     ```
 
 2. **Assignment Process**: The script performs the following steps:
@@ -35,7 +35,7 @@ python assign_gifts.py
 The output will display who is buying a gift for whom, for example:
 
 ```
-Dani buys a gift for Jemina
+Junna buys a gift for Jemina
 Emmi buys a gift for Jacob
 Evert buys a gift for Junna
 ...
